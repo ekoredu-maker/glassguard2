@@ -1,0 +1,1 @@
+{"id":"./","name":"GlassGuard 스마트 기기 탐지 보조","short_name":"GlassGuard","start_url":"./","scope":"./","display":"standalone","background_color":"#0c1718","theme_color":"#102b27","lang":"ko","icons":[{"src":"icons/192.png","sizes":"192x192","type":"image/png"},{"src":"icons/512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
